@@ -1,0 +1,4 @@
+Main idea:
+
+position container of images absolute and left 100% or -100%;
+when radio is checked, make left property=0 and z index=10;
