@@ -1,0 +1,1 @@
+A pure css slider. Demo at following link: http://codepen.io/Drew69/pen/KNNeWN
